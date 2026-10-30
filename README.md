@@ -41,8 +41,8 @@ Application web qui estime la disponibilité des vélos et des emplacements libr
 <!-- À AJOUTER : une ligne avec le vrai score, par exemple "Macro F1 de 0.xx contre 0.xx pour une base de référence station-heure-jour". -->
  
 <p>
-  <a href="(https://velo-disponibility.onrender.com/"><img src="https://img.shields.io/badge/Voir_l'application-2ea44f?style=for-the-badge" alt="Voir l'application"/></a>
-  <a href="[REPO_URL](https://github.com/hasnain2/velo-disponibility)"><img src="https://img.shields.io/badge/Code_source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code source"/></a>
+  <a href="https://velo-disponibility.onrender.com/"><img src="https://img.shields.io/badge/Voir_l'application-2ea44f?style=for-the-badge" alt="Voir l'application"/></a>
+  <a href="https://github.com/hasnain2/velo-disponibility"><img src="https://img.shields.io/badge/Code_source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code source"/></a>
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,fastapi,vite,docker" alt="Technologies du projet"/>
